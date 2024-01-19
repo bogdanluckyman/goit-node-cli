@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "commander": "^11.1.0",
-    "nanoid": "^5.0.4"
+    "nanoid": "^3.3.4"
   },
   "type": "commonjs"
 }
